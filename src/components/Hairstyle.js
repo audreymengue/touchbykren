@@ -45,13 +45,13 @@ export default function hairstyle() {
             </div>
           </div>
           <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 m-5">
-            <a href="#">
+            
               <img
                 class="rounded-t-md w-full object-fit h-80"
                 src={download3}
                 alt=""
               />
-            </a>
+            
             <div class="p-5">
               <h5 className="mb-5 font-Lato text-slate-600">
                 Noteworthy technology acquisitions 2021
@@ -89,13 +89,13 @@ export default function hairstyle() {
             </div>
           </div>
           <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 m-5">
-            <a href="#">
+            
               <img
                 class="rounded-t-md w-full object-fit h-80"
                 src={download1}
                 alt=""
               />
-            </a>
+         
             <div class="p-5">
               <h5 className="mb-5 font-Lato text-slate-600">
                 Noteworthy technology acquisitions 2021
