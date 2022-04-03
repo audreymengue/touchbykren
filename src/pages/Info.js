@@ -1,6 +1,8 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from "react";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
 import Contact from "../components/Contact";
+
 
 export default function Info() {
   return (

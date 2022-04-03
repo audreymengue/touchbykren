@@ -4,9 +4,10 @@ import React from "react";
 export default function Header() {
   return (
     <header className="bg-slate-100 sticky top-0">
-      <div className="container flex mx-auto flex-wrap p-6 flex-col md:flex-row items-center">
+      <div className="container flex mx-auto flex-wrap p-4 flex-col md:flex-row items-center">
         <div className="title-font font-medium text-blue mb4 md:mb-0">
-          <h1 className="ml-3 text-xl italic p-3">TBK!</h1>
+          <h1 className="ml-3 text-4xl italic p-3 font-Hurricane text-pink-600 font-bold">TBK!</h1>
+          {/* <h1 className="ml-3 text-xl italic p-3">TBK!</h1> */}
         </div>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-10 md:border-1 md:border-gray-700 flex flex-wrap itens-center justify-center">
           <a href="#" className="mr-3 font-Lato text-slate-600 hover:bg-slate-200 rounded text-lg p-2">
