@@ -3,12 +3,11 @@ import download1 from "../images/download1.jpg";
 import download2 from "../images/download2.jpg";
 import download3 from "../images/download3.jpg";
 import download4 from "../images/download4.jpg";
-import Contact from "./Contact";
 
 export default function hairstyle() {
   return (
     <section id="hairstyles" className="bg-slate-100 mt-10 pb-12">
-      <div className="text-center ">
+      <div className="text-center">
         <div className="mt-5 font-Lato text-slate-600">
           <h3 className="font-Lato text-slate-600 italic text-3xl p-10">
             Choose your hairstyle
@@ -23,13 +22,24 @@ export default function hairstyle() {
             />
 
             <div class="p-5">
-              <h5 className="mb-5 font-Lato text-slate-600">
-                Noteworthy technology acquisitions 2021
-              </h5>
-              <Contact />
+              <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
+              Box Braid
+              </span>
+                <div className="space-x-14 mt-4">
+                  <span className="font-Lato text-slate-600">Neck-length</span>
+                  <span  className="font-Lato text-slate-600">GHS200</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Back-length</span>
+                  <span  className="font-Lato text-slate-600">GHS300</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Waist-length</span>
+                  <span  className="font-Lato text-slate-600">GHS400</span>
+                </div>
             </div>
           </div>
-          <div class="max-w-xs  bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 m-5">
+          <div class="max-w-xs  bg-white rounded-lg border border-gray-200 shadow-md  m-5">
             <img
               class="rounded-t-md w-full object-fit h-80"
               src={download2}
@@ -37,27 +47,48 @@ export default function hairstyle() {
             />
 
             <div class="p-5">
-              <h5 className="mb-5 font-Lato text-slate-600">
-                Noteworthy technology acquisitions 2021
-              </h5>
 
-              <Contact />
+              <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
+                Faux locs
+              </span>
+              <div className="space-x-14 mt-4">
+                  <span className="font-Lato text-slate-600">Neck-length</span>
+                  <span  className="font-Lato text-slate-600">GHS200</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Back-length</span>
+                  <span  className="font-Lato text-slate-600">GHS300</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Waist-length</span>
+                  <span  className="font-Lato text-slate-600">GHS400</span>
+                </div>
             </div>
           </div>
-          <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 m-5">
+          <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md  m-5">
             
               <img
                 class="rounded-t-md w-full object-fit h-80"
                 src={download3}
                 alt=""
               />
-            
+           
             <div class="p-5">
-              <h5 className="mb-5 font-Lato text-slate-600">
-                Noteworthy technology acquisitions 2021
-              </h5>
-
-              <Contact />
+            <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
+                  Corn rows
+              </span>
+              <div className="space-x-14 mt-4">
+                  <span className="font-Lato text-slate-600">Neck-length</span>
+                  <span  className="font-Lato text-slate-600">GHS200</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Back-length</span>
+                  <span  className="font-Lato text-slate-600">GHS300</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Waist-length</span>
+                  <span  className="font-Lato text-slate-600">GHS400</span>
+                </div>
             </div>
           </div>
           <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md  m-5">
@@ -68,13 +99,24 @@ export default function hairstyle() {
             />
 
             <div class="p-5">
-              <h5 className="mb-5 font-Lato text-slate-600">
-                Noteworthy technology acquisitions 2021
-              </h5>
-              <Contact />
+            <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
+                  Notless
+              </span>
+              <div className="space-x-14 mt-4">
+                  <span className="font-Lato text-slate-600">Neck-length</span>
+                  <span  className="font-Lato text-slate-600">GHS200</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Back-length</span>
+                  <span  className="font-Lato text-slate-600">GHS300</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Waist-length</span>
+                  <span  className="font-Lato text-slate-600">GHS400</span>
+                </div>
             </div>
           </div>
-          <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 m-5">
+          <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md m-5">
             <img
               class="rounded-t-md w-full object-fit h-80"
               src={download1}
@@ -82,13 +124,24 @@ export default function hairstyle() {
             />
 
             <div class="p-5">
-              <h5 className="mb-5 font-Lato text-slate-600">
-                Noteworthy technology acquisitions 2021
-              </h5>
-              <Contact />
+            <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
+                  Rasta
+              </span>
+              <div className="space-x-14 mt-4">
+                  <span className="font-Lato text-slate-600">Neck-length</span>
+                  <span  className="font-Lato text-slate-600">GHS200</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Back-length</span>
+                  <span  className="font-Lato text-slate-600">GHS300</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Waist-length</span>
+                  <span  className="font-Lato text-slate-600">GHS400</span>
+                </div>
             </div>
           </div>
-          <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 m-5">
+          <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md  m-5">
             
               <img
                 class="rounded-t-md w-full object-fit h-80"
@@ -97,10 +150,21 @@ export default function hairstyle() {
               />
          
             <div class="p-5">
-              <h5 className="mb-5 font-Lato text-slate-600">
-                Noteworthy technology acquisitions 2021
-              </h5>
-              <Contact />
+            <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
+                  Ponny
+              </span>
+              <div className="space-x-14 mt-4">
+                  <span className="font-Lato text-slate-600">Neck-length</span>
+                  <span  className="font-Lato text-slate-600">GHS200</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Back-length</span>
+                  <span  className="font-Lato text-slate-600">GHS300</span>
+                </div>
+                <div className="space-x-14 mt-4">
+                  <span  className="font-Lato text-slate-600">Waist-length</span>
+                  <span  className="font-Lato text-slate-600">GHS400</span>
+                </div>
             </div>
           </div>
         </div>

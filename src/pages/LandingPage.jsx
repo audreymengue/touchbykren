@@ -6,7 +6,7 @@ import Footer from "../components/Footer.js";
 
 export default function LandingPage() {
   return (
-    <div className="h-full">
+    <div >
       <Header />
       <Info />
       <Hairstyle />

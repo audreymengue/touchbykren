@@ -13,13 +13,13 @@ export default function Footer() {
       </div>
 
       <div className=" text-center pb-10 space-x-8">
-        <a href="whatsapp" className="text-pink-600">
+        <a href="https://wa.me/0269138654?text=I would liketo know more about this hair style" title="Share on whatsapp" target="_blank" rel="noreferrer" className="text-pink-600">
           <WhatsAppIcon style={{ fontSize: 70, margin: 10 }} />
         </a>
-        <a href="facebook" className="text-pink-600">
+        <a href="facebook" target="_blank" rel="noreferrer"  className="text-pink-600">
           <FacebookIcon style={{ fontSize: 70, margin: 10 }} />
         </a>
-        <a href="insta" className="text-pink-600">
+        <a href="insta" target="_blank" rel="noreferrer"  className="text-pink-600">
           <InstagramIcon style={{ fontSize: 70, margin: 10 }} />
         </a>
       </div>
