@@ -41,22 +41,22 @@ export default function Info() {
         <div className="text-center">
           <ul className=" mb-8 flex justify-center mx-auto flex-wrap flex-col md:flex-row ">
             <li className="cursor-pointer hover:border-b-4 border-pink-600 font-Hurricane text-slate-600 md:text-4xl text-3xl mr-4">
-              Box Braid
+              * Box Braid
             </li>
             <li className="cursor-pointer hover:border-b-4 border-pink-600 font-Hurricane text-slate-600 md:text-4xl text-3xl mr-4">
-              Box Braid
+              * Box Braid
             </li>
             <li className="cursor-pointer hover:border-b-4 border-pink-600 font-Hurricane text-slate-600 md:text-4xl text-3xl mr-4">
-              Corn rows
+              * Corn rows
             </li>
             <li className="cursor-pointer hover:border-b-4 border-pink-600 font-Hurricane text-slate-600 md:text-4xl text-3xl mr-4">
-              Notless braid
+              * Notless braid
             </li>
             <li className="cursor-pointer hover:border-b-4 border-pink-600 font-Hurricane text-slate-600 md:text-4xl text-3xl mr-4">
-              Corn rows
+              * Corn rows
             </li>
             <li className="cursor-pointer hover:border-b-4 border-pink-600 font-Hurricane text-slate-600 md:text-4xl text-3xl mr-4">
-              Notless braid
+              * Notless braid
             </li>
           </ul>
         </div>

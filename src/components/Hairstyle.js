@@ -16,15 +16,16 @@ export default function hairstyle() {
         <div className=" container  text-center mx-auto flex flex-wrap justify-center">
           <div class="max-w-xs bg-white  rounded-lg border border-gray-200 shadow-md  m-5">
             <img
-              class="rounded-t-md w-full object-fit h-80"
+              class="rounded-t-md object-fill h-80 w-96"
               src={download1}
               alt="cornrow"
             />
 
             <div class="p-5">
               <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
-              Box Braid
+              . Hairstyle: Box Braid
               </span>
+              <div>
                 <div className="space-x-14 mt-4">
                   <span className="font-Lato text-slate-600">Neck-length</span>
                   <span  className="font-Lato text-slate-600">GHS200</span>
@@ -37,11 +38,12 @@ export default function hairstyle() {
                   <span  className="font-Lato text-slate-600">Waist-length</span>
                   <span  className="font-Lato text-slate-600">GHS400</span>
                 </div>
+              </div>
             </div>
           </div>
           <div class="max-w-xs  bg-white rounded-lg border border-gray-200 shadow-md  m-5">
             <img
-              class="rounded-t-md w-full object-fit h-80"
+              class="rounded-t-md object-fill h-80 w-96"
               src={download2}
               alt=""
             />
@@ -49,9 +51,10 @@ export default function hairstyle() {
             <div class="p-5">
 
               <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
-                Faux locs
+               Hairstyle: Box Braid
               </span>
-              <div className="space-x-14 mt-4">
+              <div>
+                <div className="space-x-14 mt-4">
                   <span className="font-Lato text-slate-600">Neck-length</span>
                   <span  className="font-Lato text-slate-600">GHS200</span>
                 </div>
@@ -63,21 +66,23 @@ export default function hairstyle() {
                   <span  className="font-Lato text-slate-600">Waist-length</span>
                   <span  className="font-Lato text-slate-600">GHS400</span>
                 </div>
+              </div>
             </div>
           </div>
           <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md  m-5">
             
               <img
-                class="rounded-t-md w-full object-fit h-80"
+                class="rounded-t-md object-fill h-80 w-96"
                 src={download3}
                 alt=""
               />
            
             <div class="p-5">
             <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
-                  Corn rows
+             Hairstyle: Box Braid
               </span>
-              <div className="space-x-14 mt-4">
+              <div>
+                <div className="space-x-14 mt-4">
                   <span className="font-Lato text-slate-600">Neck-length</span>
                   <span  className="font-Lato text-slate-600">GHS200</span>
                 </div>
@@ -89,20 +94,22 @@ export default function hairstyle() {
                   <span  className="font-Lato text-slate-600">Waist-length</span>
                   <span  className="font-Lato text-slate-600">GHS400</span>
                 </div>
+              </div>
             </div>
           </div>
           <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md  m-5">
             <img
-              class="rounded-t-md w-full object-fit h-80"
+              class="rounded-t-md object-fill h-80 w-96"
               src={download4}
               alt="cornrow"
             />
 
-            <div class="p-5">
+            <div class="p-5 ">
             <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
-                  Notless
+             Hairstyle: Box Braid
               </span>
-              <div className="space-x-14 mt-4">
+              <div>
+                <div className="space-x-14 mt-4">
                   <span className="font-Lato text-slate-600">Neck-length</span>
                   <span  className="font-Lato text-slate-600">GHS200</span>
                 </div>
@@ -114,20 +121,22 @@ export default function hairstyle() {
                   <span  className="font-Lato text-slate-600">Waist-length</span>
                   <span  className="font-Lato text-slate-600">GHS400</span>
                 </div>
+              </div>
             </div>
           </div>
           <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md m-5">
             <img
-              class="rounded-t-md w-full object-fit h-80"
+              class="rounded-t-md object-fill h-80 w-96"
               src={download1}
               alt=""
             />
 
-            <div class="p-5">
+            <div class="p-5 ">
             <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
-                  Rasta
+             Hairstyle: Box Braid
               </span>
-              <div className="space-x-14 mt-4">
+              <div>
+                <div className="space-x-14 mt-4">
                   <span className="font-Lato text-slate-600">Neck-length</span>
                   <span  className="font-Lato text-slate-600">GHS200</span>
                 </div>
@@ -139,21 +148,22 @@ export default function hairstyle() {
                   <span  className="font-Lato text-slate-600">Waist-length</span>
                   <span  className="font-Lato text-slate-600">GHS400</span>
                 </div>
+              </div>
             </div>
           </div>
           <div class="max-w-xs bg-white rounded-lg border border-gray-200 shadow-md  m-5">
-            
               <img
-                class="rounded-t-md w-full object-fit h-80"
+                class="rounded-t-md object-fill h-80 w-96"
                 src={download1}
                 alt=""
               />
          
-            <div class="p-5">
+            <div class="p-5 ">
             <span className="font-Lato text-slate-100 bg-pink-500 rounded p-3">
-                  Ponny
+             Hairstyle: Box Braid
               </span>
-              <div className="space-x-14 mt-4">
+              <div>
+                <div className="space-x-14 mt-4">
                   <span className="font-Lato text-slate-600">Neck-length</span>
                   <span  className="font-Lato text-slate-600">GHS200</span>
                 </div>
@@ -165,6 +175,8 @@ export default function hairstyle() {
                   <span  className="font-Lato text-slate-600">Waist-length</span>
                   <span  className="font-Lato text-slate-600">GHS400</span>
                 </div>
+              </div>
+              
             </div>
           </div>
         </div>
