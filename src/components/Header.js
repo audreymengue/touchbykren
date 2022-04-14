@@ -22,7 +22,7 @@ export default function Header() {
         </nav>
 
         <a
-          href="tel:0269138654"
+          href="tel:0553197017"
           className="p-2 bg-pink-500 text-slate-100 m-3 rounded font-Lato"
         >
           Book an appointment
